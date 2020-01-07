@@ -5,3 +5,7 @@ load balancer
 s3 bucket
 security 
 data based
+
+ebs
+efs
+storage
