@@ -9,3 +9,8 @@ data based
 ebs
 efs
 storage
+
+s3 standard
+s3 infrequent
+s3 glacier
+
